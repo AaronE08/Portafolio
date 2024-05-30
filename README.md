@@ -60,7 +60,7 @@ native-country: Estados Unidos, Camboya, Inglaterra, Puerto Rico, Canadá, Alema
 
 -RandomForestClassifier.
 
-Se eligio solamente KNeighborsClassifier y RandomForestClassifier con una puntuacion maxima de 90 y 91 para RandomForestClassifier
+Se eligio solamente KNeighborsClassifier y RandomForestClassifier con una puntuacion maxima de 90 para -KNeighborsClassifiery 91 para RandomForestClassifier
 
 5.**El conjunto de datos consta de 32561 y 14 columnas**
 
