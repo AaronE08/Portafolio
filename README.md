@@ -50,9 +50,13 @@ Income(menor o igual a 50k o mayor a 50k)
 
 **Se utilizaron los siguientes modelos:**
 LogisticRegression
+
 DecisionTreeClassifier
+
 SVC
+
 KNeighborsClassifier
+
 RandomForestClassifier.
 
 Se eligio solamente KNeighborsClassifier y RandomForestClassifier con una puntuacion maxima de 90 y 91 para RandomForestClassifier
