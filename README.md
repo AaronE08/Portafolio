@@ -4,10 +4,15 @@ El objetivo del proyecto es crear un modelo capaz de identificar el ingreso de l
 **bibliotecas utilizadas en el proyecto:**
 
 import pandas as pd
+
 import matplotlib as plt
+
 import seaborn as sns
+
 import os
+
 import numpy as np
+
 import math as mat
 
 **Características**
