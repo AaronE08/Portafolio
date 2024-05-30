@@ -1,21 +1,21 @@
-**Descripcion:**
+1.**Descripcion:**
 El objetivo del proyecto es crear un modelo capaz de identificar el ingreso de la poblacion adulta siendo el objetivo menor o igual a 50k o mayor a 50k.
 
 **bibliotecas utilizadas en el proyecto:**
 
-import pandas as pd
+-import pandas as pd
 
-import matplotlib as plt
+-import matplotlib as plt
 
-import seaborn as sns
+-import seaborn as sns
 
-import os
+-import os
 
-import numpy as np
+-import numpy as np
 
-import math as mat
+-import math as mat
 
-**Características**
+2.**Características**
 
 age: continuo.
 
@@ -45,23 +45,24 @@ hours-per-week: continuo.
 
 native-country: Estados Unidos, Camboya, Inglaterra, Puerto Rico, Canadá, Alemania, Estados Unidos periféricos (Guam-USVI-etc), India, Japón, Grecia, Sur, China, Cuba, Irán, Honduras, Filipinas, Italia, Polonia, Jamaica, Vietnam, México, Portugal, Irlanda, Francia, República-Dominicana, Laos, Ecuador, Taiwán, Haití, Colombia, Hungría, Guatemala, Nicaragua, Escocia, Tailandia, Yugoslavia, El-Salvador, Trinadad&Tobago, Perú, Hong, Holanda- Países Bajos.
 
-**Objetivo:**
-Income(menor o igual a 50k o mayor a 50k)
+3.**Objetivo:**
+-Income(menor o igual a 50k o mayor a 50k)
 
-**Se utilizaron los siguientes modelos:**
-LogisticRegression
+4.**Se utilizaron los siguientes modelos:**
 
-DecisionTreeClassifier
+-LogisticRegression
 
-SVC
+-DecisionTreeClassifier
 
-KNeighborsClassifier
+-SVC
 
-RandomForestClassifier.
+-KNeighborsClassifier
+
+-RandomForestClassifier.
 
 Se eligio solamente KNeighborsClassifier y RandomForestClassifier con una puntuacion maxima de 90 y 91 para RandomForestClassifier
 
-**El conjunto de datos consta de 32561 y 14 columnas**
+5.**El conjunto de datos consta de 32561 y 14 columnas**
 
 
 
